@@ -18,10 +18,10 @@
 ## 4. Графики
 
 ### Оптимизация EMA
-![EMA стратегия](images/figure_1.png)
+![EMA стратегия](images/Figure_1.png)
 
 ### Оптимизация RSI + ATR
-![RSI + ATR стратегия](images/figure_2.png)
+![RSI + ATR стратегия](images/Figure_2.png)
 
 ### Оптимизация Bollinger Bands
 ![Bollinger стратегия](images/Figure_3.png)
